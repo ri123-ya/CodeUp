@@ -1,4 +1,5 @@
 <!-- <<<<<<< HEAD
+<!-- <<<<<<< HEAD
 # CodeUp
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
@@ -39,9 +40,29 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 >>>>>>> 8f89623 (Initial commit from Create Next App) -->
 
+<!-- # CodeUp
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app). -->
+
+<!-- ## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+======= -->
+<!-- # CodeUp
+>>>>>>> 9fcf147c31644a729b7d89e680ecdf48efc2171f -->
+
 # CodeUp
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
