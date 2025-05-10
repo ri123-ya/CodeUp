@@ -78,7 +78,7 @@ export const CODING_QUESTIONS: CodeQuestion[] = [
         starterCode: {
             javascript: `function twoSum(nums, target) {
                             // Write your solution here
-                        }`,
+ }`,
             python: `def two_sum(nums, target):
                     # Write your solution here
                     pass`,
@@ -90,7 +90,7 @@ export const CODING_QUESTIONS: CodeQuestion[] = [
                     }`,
             cpp: `vector<int> twoSum(vector<int>& nums, int target) {
                    // Write your solution here
-                 }`
+}`
         },
         constraints: [
             "2 ≤ nums.length ≤ 104",
@@ -117,19 +117,21 @@ export const CODING_QUESTIONS: CodeQuestion[] = [
         starterCode: {
             javascript: `function reverseString(s) {
                         // Write your solution here
-                        }`,
+
+}`,
             python: `def reverse_string(s):
                     # Write your solution here
                     pass`,
             java: `class Solution {
                         public void reverseString(char[] s) {
                         // Write your solution here
-                         }
-                   }`,
+
+    }
+}`,
             cpp: `void reverseString(vector<char>& s) {
                     // Write your solution here
     
-                }`
+}`
         },
     },
     {
@@ -154,7 +156,7 @@ export const CODING_QUESTIONS: CodeQuestion[] = [
             javascript: `function isPalindrome(x) {
                             // Write your solution here
   
-                         }`,
+ }`,
             python: `def is_palindrome(x):
                      # Write your solution here
                     pass`,
@@ -162,12 +164,12 @@ export const CODING_QUESTIONS: CodeQuestion[] = [
                         public boolean isPalindrome(int x) {
                           // Write your solution here
         
-                        }
-                    }`,
+    }
+}`,
             cpp: `vector<int> twoSum(vector<int>& nums, int target) {
                     // Write your solution here
     
-                }`
+}`
         },
     },
 ];
