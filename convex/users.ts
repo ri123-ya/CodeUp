@@ -35,6 +35,7 @@ export const getUsers = query({
     },
 });
 
+
 export const getUserByClerkId = query({
     args: { clerkId: v.string() },
     handler: async (ctx, args) => {
