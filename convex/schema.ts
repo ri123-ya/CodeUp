@@ -10,6 +10,7 @@ export default defineSchema({
         clerkId: v.string(),//field for user to get clerk id
     }).index("by_clerk_id", ["clerkId"]),
 
+
     interviews: defineTable({
         title: v.string(),
         description: v.optional(v.string()),
@@ -23,6 +24,7 @@ export default defineSchema({
         .index("by_candidate_id", ["candidateId"])
         .index("by_stream_call_id", ["streamCallId"]),
 
+        
     comments: defineTable({
         content: v.string(),
         rating: v.number(),
